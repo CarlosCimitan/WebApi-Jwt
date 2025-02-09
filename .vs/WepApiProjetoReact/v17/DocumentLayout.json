@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|c:\\users\\eduardo\\desktop\\wepapiprojetoreact\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|solutionrelative:controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|c:\\users\\eduardo\\desktop\\wepapiprojetoreact\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|c:\\users\\eduardo\\desktop\\wepapiprojetoreact\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|c:\\users\\eduardo\\desktop\\wepapiprojetoreact\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|c:\\users\\eduardo\\desktop\\wepapiprojetoreact\\dto\\alunoedicaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|solutionrelative:dto\\alunoedicaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|c:\\users\\eduardo\\desktop\\wepapiprojetoreact\\viewmodels\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|solutionrelative:viewmodels\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|c:\\users\\eduardo\\desktop\\wepapiprojetoreact\\viewmodels\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|solutionrelative:viewmodels\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|c:\\users\\eduardo\\desktop\\wepapiprojetoreact\\viewmodels\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|solutionrelative:viewmodels\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|c:\\users\\eduardo\\desktop\\wepapiprojetoreact\\wepapiprojetoreact.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|solutionrelative:wepapiprojetoreact.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|c:\\users\\eduardo\\desktop\\wepapiprojetoreact\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|c:\\users\\eduardo\\desktop\\wepapiprojetoreact\\services\\authenticate\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|solutionrelative:services\\authenticate\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|c:\\users\\eduardo\\desktop\\wepapiprojetoreact\\services\\authenticate\\iauthenticateinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|solutionrelative:services\\authenticate\\iauthenticateinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|c:\\users\\eduardo\\desktop\\wepapiprojetoreact\\services\\aluno\\ialunointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|solutionrelative:services\\aluno\\ialunointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|c:\\users\\eduardo\\desktop\\wepapiprojetoreact\\services\\aluno\\alunoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|solutionrelative:services\\aluno\\alunoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|c:\\users\\eduardo\\desktop\\wepapiprojetoreact\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|c:\\users\\eduardo\\desktop\\wepapiprojetoreact\\dto\\alunocriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|solutionrelative:dto\\alunocriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|c:\\users\\eduardo\\desktop\\wepapiprojetoreact\\models\\alunomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|solutionrelative:models\\alunomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|c:\\users\\eduardo\\desktop\\wepapiprojetoreact\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|solutionrelative:models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|c:\\users\\eduardo\\desktop\\wepapiprojetoreact\\migrations\\20250129154858_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FD8A4A-51BB-4015-A7E4-D5D7381DBE3D}|WepApiProjetoReact.csproj|solutionrelative:migrations\\20250129154858_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:04:47.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserToken.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\ViewModels\\UserToken.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UserToken.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\ViewModels\\UserToken.cs",
+              "RelativeToolTip": "ViewModels\\UserToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:00:36.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\ViewModels\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\ViewModels\\RegisterModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:00:05.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAQwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:30:50.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T15:45:21.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlunoEdicaoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Dto\\AlunoEdicaoDto.cs",
+              "RelativeDocumentMoniker": "Dto\\AlunoEdicaoDto.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Dto\\AlunoEdicaoDto.cs",
+              "RelativeToolTip": "Dto\\AlunoEdicaoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:03:34.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "Controllers\\AlunoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:44:17.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\ViewModels\\LoginModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\ViewModels\\LoginModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:58:27.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthenticateService.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Services\\Authenticate\\AuthenticateService.cs",
+              "RelativeDocumentMoniker": "Services\\Authenticate\\AuthenticateService.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Services\\Authenticate\\AuthenticateService.cs",
+              "RelativeToolTip": "Services\\Authenticate\\AuthenticateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:02:12.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthenticateInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Services\\Authenticate\\IAuthenticateInterface.cs",
+              "RelativeDocumentMoniker": "Services\\Authenticate\\IAuthenticateInterface.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Services\\Authenticate\\IAuthenticateInterface.cs",
+              "RelativeToolTip": "Services\\Authenticate\\IAuthenticateInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:00:26.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvykAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T20:39:04.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WepApiProjetoReact.csproj",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\WepApiProjetoReact.csproj",
+              "RelativeDocumentMoniker": "WepApiProjetoReact.csproj",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\WepApiProjetoReact.csproj",
+              "RelativeToolTip": "WepApiProjetoReact.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T15:59:30.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAlunoInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Services\\Aluno\\IAlunoInterface.cs",
+              "RelativeDocumentMoniker": "Services\\Aluno\\IAlunoInterface.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Services\\Aluno\\IAlunoInterface.cs",
+              "RelativeToolTip": "Services\\Aluno\\IAlunoInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:00:00.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AlunoServices.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Services\\Aluno\\AlunoServices.cs",
+              "RelativeDocumentMoniker": "Services\\Aluno\\AlunoServices.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Services\\Aluno\\AlunoServices.cs",
+              "RelativeToolTip": "Services\\Aluno\\AlunoServices.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAcwHcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:05:09.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AlunoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Models\\AlunoModel.cs",
+              "RelativeDocumentMoniker": "Models\\AlunoModel.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Models\\AlunoModel.cs",
+              "RelativeToolTip": "Models\\AlunoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:34:31.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:39:19.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AlunoCriacaoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Dto\\AlunoCriacaoDto.cs",
+              "RelativeDocumentMoniker": "Dto\\AlunoCriacaoDto.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Dto\\AlunoCriacaoDto.cs",
+              "RelativeToolTip": "Dto\\AlunoCriacaoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:01:50.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Models\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "Models\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Models\\ResponseModel.cs",
+              "RelativeToolTip": "Models\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:57:45.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250129154858_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Migrations\\20250129154858_Inicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250129154858_Inicial.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\WepApiProjetoReact\\Migrations\\20250129154858_Inicial.cs",
+              "RelativeToolTip": "Migrations\\20250129154858_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:48:59.09Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

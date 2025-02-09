@@ -1,0 +1,204 @@
+[
+  {
+    "ContainingType": "WepApiProjetoReact.Controllers.AccountController",
+    "Method": "CriarUsuario",
+    "RelativePath": "api/Account/CriarUsuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "WepApiProjetoReact.ViewModels.RegisterModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WepApiProjetoReact.ViewModels.UserToken",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WepApiProjetoReact.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "api/Account/LoginUsuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userInfo",
+        "Type": "WepApiProjetoReact.ViewModels.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WepApiProjetoReact.ViewModels.UserToken",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WepApiProjetoReact.Controllers.AlunoController",
+    "Method": "BuscarAlunoPorId",
+    "RelativePath": "api/Aluno/BuscarAlunoPeloId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idAluno",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WepApiProjetoReact.Models.AlunoModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WepApiProjetoReact.Controllers.AlunoController",
+    "Method": "BuscarAlunosPorNome",
+    "RelativePath": "api/Aluno/BuscarAlunosPorNome",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nomeAluno",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WepApiProjetoReact.Models.AlunoModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WepApiProjetoReact.Controllers.AlunoController",
+    "Method": "AlunoCriacao",
+    "RelativePath": "api/Aluno/CriarAluno",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "alunoCriacaoDto",
+        "Type": "WepApiProjetoReact.Dto.AlunoCriacaoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WepApiProjetoReact.Models.AlunoModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WepApiProjetoReact.Controllers.AlunoController",
+    "Method": "AlunoEdicao",
+    "RelativePath": "api/Aluno/EditarAluno",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "alunoEdicaoDto",
+        "Type": "WepApiProjetoReact.Dto.AlunoEdicaoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WepApiProjetoReact.Models.AlunoModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WepApiProjetoReact.Controllers.AlunoController",
+    "Method": "ExcluirAluno",
+    "RelativePath": "api/Aluno/ExcluirAluno",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idAluno",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WepApiProjetoReact.Models.AlunoModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WepApiProjetoReact.Controllers.AlunoController",
+    "Method": "ListarAlunos",
+    "RelativePath": "api/Aluno/ListaDosAlunos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "WepApiProjetoReact.Models.AlunoModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
